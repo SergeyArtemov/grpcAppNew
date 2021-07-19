@@ -1,0 +1,1 @@
+obj\Debug\net5.0\ydb/YdbStatusCodes.cs: Protos/Ydb/ydb_status_codes.proto

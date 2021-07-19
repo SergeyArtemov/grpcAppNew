@@ -1,0 +1,10 @@
+obj\Debug\net5.0\ydb\operations\v1/YdbOperationV1.cs \
+obj\Debug\net5.0\ydb\operations\v1/YdbOperationV1Grpc.cs: C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/any.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/duration.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/descriptor.proto\
+ Protos/Ydb/validation.proto\
+ Protos/Ydb/ydb_common.proto\
+ Protos/Ydb/Issue/ydb_issue_message.proto\
+ Protos/Ydb/ydb_status_codes.proto\
+ Protos/Ydb/Operations/ydb_operation.proto\
+ Protos/Ydb/Operations/V1/ydb_operation_v1.proto

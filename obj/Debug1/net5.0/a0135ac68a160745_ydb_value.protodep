@@ -1,0 +1,2 @@
+obj\Debug\net5.0\ydb/YdbValue.cs: C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/struct.proto\
+ Protos/Ydb/ydb_value.proto

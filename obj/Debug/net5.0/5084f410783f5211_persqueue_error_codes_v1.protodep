@@ -1,0 +1,1 @@
+obj\Debug\net5.0\ydb\persqueue\errorcode/PersqueueErrorCodesV1.cs: Protos/Ydb/PersQueue/ErrorCode/persqueue_error_codes_v1.proto

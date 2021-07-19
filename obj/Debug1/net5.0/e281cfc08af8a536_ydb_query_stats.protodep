@@ -1,0 +1,1 @@
+obj\Debug\net5.0\ydb\tablestats/YdbQueryStats.cs: Protos/Ydb/TableStats/ydb_query_stats.proto

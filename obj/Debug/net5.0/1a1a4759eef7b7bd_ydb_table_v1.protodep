@@ -1,0 +1,17 @@
+obj\Debug\net5.0\ydb\table\v1/YdbTableV1.cs \
+obj\Debug\net5.0\ydb\table\v1/YdbTableV1Grpc.cs: C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/descriptor.proto\
+ Protos/Ydb/validation.proto\
+ Protos/Ydb/ydb_common.proto\
+ Protos/Ydb/Issue/ydb_issue_message.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/any.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/duration.proto\
+ Protos/Ydb/ydb_status_codes.proto\
+ Protos/Ydb/Operations/ydb_operation.proto\
+ Protos/Ydb/TableStats/ydb_query_stats.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/struct.proto\
+ Protos/Ydb/ydb_value.proto\
+ Protos/Ydb/Scheme/ydb_scheme.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/S.Artemov/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/Ydb/Table/ydb_table.proto\
+ Protos/Ydb/Table/V1/ydb_table_v1.proto
